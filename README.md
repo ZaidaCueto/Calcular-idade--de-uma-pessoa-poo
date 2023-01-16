@@ -1,4 +1,5 @@
-# Calcular-idade--de-uma-pessoa-poo
+# Calcular idade de uma pessoa 
+## praticando Programação orientada a objetos - POO
 Este programa foi feito para praticar poo em C#. 
 
 
@@ -13,10 +14,10 @@ Para saber Maois sobre o asunto
 ```cs
    private int anoNacimento;
 
-		public int AnoNacimento	
+		public int AnoNascimento	
 		{
-			get { return this.anoNacimento; }
-			set { this.anoNacimento = value; }
+			get { return this.anoNascimento; }
+			set { this.anosNacimento = value; }
 		}
 ```
 ##  Veja o que este programa faz no gif abaixo
