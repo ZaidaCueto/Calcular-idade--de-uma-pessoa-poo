@@ -20,7 +20,6 @@ Para saber Maois sobre o asunto
 		}
 ```
 ##  Veja o que este programa faz no gif abaixo
-<center>
+
 ![video calcular idade](https://user-images.githubusercontent.com/87122304/212580461-da69cd6b-6371-42f3-8bc4-35c6cca24a81.gif)
-</center>
 
