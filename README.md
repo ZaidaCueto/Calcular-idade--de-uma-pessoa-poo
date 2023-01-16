@@ -17,7 +17,7 @@ Para saber Maois sobre o asunto
 		public int AnoNascimento	
 		{
 			get { return this.anoNascimento; }
-			set { this.anosNacimento = value; }
+			set { this.anoNascimento = value; }
 		}
 ```
 ##  Veja o que este programa faz no gif abaixo
